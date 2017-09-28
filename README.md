@@ -1,2 +1,2 @@
 # camel-crucible
-me learning ocaml
+For the first try, i'll try to write a brainfuck compiler.<br/>
